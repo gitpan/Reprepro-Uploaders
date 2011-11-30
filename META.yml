@@ -1,6 +1,6 @@
 ---
 name: Reprepro-Uploaders
-version: 0.001
+version: 0.002
 author:
   - 'RaphaÃ«l Pinson <raphink@cpan.org>'
 abstract: Emulate reprepro's upload permissions
@@ -19,7 +19,7 @@ configure_requires:
 provides:
   Reprepro::Uploaders:
     file: lib/Reprepro/Uploaders.pm
-    version: 0.001
+    version: 0.002
 generated_by: Module::Build version 0.340201
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
